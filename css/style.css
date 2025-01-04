@@ -8,14 +8,14 @@
 
 :root {
     --contrast-color: #ff004f;
-    --off-white: #ababab;
+    --off-white: #674d4d;
     --social-icon-inner-color: #fff;
     --desc-font-size: 11px;
     /*----- Light theme ------*/
-    --website-primary-color: #e7e0e0;
+    --website-primary-color: #ffffff;
     --website-secondary-color: #33000d;
     --panel-contrast-color: #33000d;
-    --card-background: #f6f6f6;
+    --card-background: #ffffff;
     --label-background: #ababab;
   }
 /* Skills Section */
