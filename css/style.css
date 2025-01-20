@@ -868,25 +868,6 @@ footer {
   .timeline-dot::after{
     display: none;
   }
-.display-flex {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px; /* Space between the columns */
-}
-
-.project-column {
-  width: 48%; /* Adjust the width to fit two items side by side */
-}
-
-.project-details {
-  padding: 10px;
-}
-
-.role-icons {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
 
   /*------- Contact ---------*/
   .contact-right {
