@@ -496,6 +496,12 @@ html {
     font-weight: 550;
     color: var(--website-secondary-color);
   }
+.timeline-left, .timeline-right {
+    width: 48%; /* Adjust the width to ensure they fit side by side */
+    margin: 1%;
+    display: inline-block;
+    vertical-align: top;
+}
 
   .uni-details .display-flex-center p,
   .timeline-content .header p {
